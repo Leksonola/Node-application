@@ -30,4 +30,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           target: prod
-          tags: leksonola/Node-application:latest
+          tags: leksonola/node-application:latest
